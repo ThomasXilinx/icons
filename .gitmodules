@@ -8,3 +8,9 @@
 [submodule "xrt5"]
 	path = xrt5
 	url = https://github.com/Xilinx/XRT
+[submodule "release/source/gold/xrt"]
+	path = release/source/gold/xrt
+	url = https://github.com/Xilinx/XRT
+[submodule "release/source/gold/xrm"]
+	path = release/source/gold/xrm
+	url = https://github.com/Xilinx/XRM
