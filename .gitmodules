@@ -4,3 +4,4 @@
 [submodule "xrt2"]
 	path = xrt2
 	url = https://github.com/Xilinx/XRT
+	branch = u30_alpha
